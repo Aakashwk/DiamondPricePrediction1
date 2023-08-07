@@ -1,0 +1,5 @@
+[2023-08-07 09:29:48,108]24root-INFO-Data Ingestion method starts
+[2023-08-07 09:29:48,375]28root-INFO-Dataset read as pandas Dataframe
+[2023-08-07 09:29:49,790]34root-INFO-Raw data is created
+[2023-08-07 09:29:49,790]36root-INFO-Train test split
+[2023-08-07 09:29:51,268]42root-INFO-Ingestion of data is completed
